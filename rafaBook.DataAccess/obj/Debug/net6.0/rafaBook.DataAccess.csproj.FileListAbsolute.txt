@@ -1,0 +1,17 @@
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.DataAccess\obj\Debug\net6.0\rafaBook.DataAccess.csproj.AssemblyReference.cache
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.DataAccess\obj\Debug\net6.0\rafaBook.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.DataAccess\obj\Debug\net6.0\rafaBook.DataAccess.AssemblyInfoInputs.cache
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.DataAccess\obj\Debug\net6.0\rafaBook.DataAccess.AssemblyInfo.cs
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.DataAccess\obj\Debug\net6.0\rafaBook.DataAccess.csproj.CoreCompileInputs.cache
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.DataAccess\bin\Debug\net6.0\rafaBook.DataAccess.deps.json
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.DataAccess\bin\Debug\net6.0\rafaBook.DataAccess.runtimeconfig.json
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.DataAccess\bin\Debug\net6.0\rafaBook.DataAccess.dll
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.DataAccess\bin\Debug\net6.0\rafaBook.DataAccess.pdb
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.DataAccess\bin\Debug\net6.0\rafaBook.Models.dll
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.DataAccess\bin\Debug\net6.0\rafaBook.Models.pdb
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.DataAccess\obj\Debug\net6.0\rafaBook.DataAccess.csproj.CopyComplete
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.DataAccess\obj\Debug\net6.0\rafaBook.DataAccess.dll
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.DataAccess\obj\Debug\net6.0\refint\rafaBook.DataAccess.dll
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.DataAccess\obj\Debug\net6.0\rafaBook.DataAccess.pdb
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.DataAccess\obj\Debug\net6.0\rafaBook.DataAccess.genruntimeconfig.cache
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.DataAccess\obj\Debug\net6.0\ref\rafaBook.DataAccess.dll

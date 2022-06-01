@@ -1,0 +1,12 @@
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.Utility\bin\Debug\net6.0\rafaBook.Utility.deps.json
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.Utility\bin\Debug\net6.0\rafaBook.Utility.dll
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.Utility\bin\Debug\net6.0\rafaBook.Utility.pdb
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.Utility\obj\Debug\net6.0\rafaBook.Utility.csproj.AssemblyReference.cache
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.Utility\obj\Debug\net6.0\rafaBook.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.Utility\obj\Debug\net6.0\rafaBook.Utility.AssemblyInfoInputs.cache
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.Utility\obj\Debug\net6.0\rafaBook.Utility.AssemblyInfo.cs
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.Utility\obj\Debug\net6.0\rafaBook.Utility.csproj.CoreCompileInputs.cache
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.Utility\obj\Debug\net6.0\rafaBook.Utility.dll
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.Utility\obj\Debug\net6.0\refint\rafaBook.Utility.dll
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.Utility\obj\Debug\net6.0\rafaBook.Utility.pdb
+D:\OneDrive\Estudo\CSharp\MVC\rafaBookMVC_dotNet6\rafaBook.Utility\obj\Debug\net6.0\ref\rafaBook.Utility.dll
