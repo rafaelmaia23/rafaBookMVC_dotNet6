@@ -113,7 +113,7 @@ public class ProductController : Controller
         var obj = _unitOfWork.Product.GetFirstOrDefault(u => u.Id == id);
         if (obj == null)
         {
-            return Json(new {success = false, message = "Error while deleting"});
+            return Json(new { success = false, message = "Error while deleting"});
         }
 
         var oldImagePath = Path.Combine(_webHostEnvironment.WebRootPath, obj.ImageUrl.TrimStart('\\'));

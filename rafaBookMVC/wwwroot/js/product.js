@@ -49,7 +49,7 @@ function Delete(url) {
             $.ajax({
                 url: url,
                 type: 'DELETE',
-                sucess: function(data) {
+                success: function(data) {
                     if (data.success) {
                         dataTable.ajax.reload();
                         toastr.success(data.message);
